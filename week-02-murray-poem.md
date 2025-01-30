@@ -1,18 +1,20 @@
 ## Beyond Time
 
-> This is a quote
+There goes the expression of silence
 
-There goes
+The earth wires the loops of connectivity
 
-Line 2
+A sheer coating of indistinguishable reality
 
-Line 3
-
-Line 4 
+With a display spitting out answers
 
 What is left to discover?
 
 ![Image of a fictional person with shirt saying human progress is not easy](human.jpeg)
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Image of a computer](computer.jpeg)
+
+[Windows XP Media Player Visualizations](https://www.youtube.com/watch?v=hI_jBsq14Ak)
+
+
 
 
